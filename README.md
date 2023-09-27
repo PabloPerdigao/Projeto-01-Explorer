@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Pablo Perdigão,aluno da Rocketseat :wave: [Participe comunidade Rocketseat!](https://discord.gg/rocketseat)
+Feito com ♥ by Pablo Perdigão,aluno da Rocketseat :wave: [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
